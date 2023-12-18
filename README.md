@@ -18,5 +18,3 @@ To use NumPy in your Python code, you typically start by importing the library:
 
 ```python
 import numpy as np
-
-----------------------------------------------------------------------------------------------------------------------------------------
