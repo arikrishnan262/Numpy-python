@@ -18,7 +18,5 @@ To use NumPy in your Python code, you typically start by importing the library:
 
 ```python
 import numpy as np
-```
 
-After importing NumPy, you can create NumPy arrays and perform various numerical operations using its functions and methods. NumPy is widely used in scientific computing, data analysis, machine learning, and other fields where efficient numerical operations are required.
 ----------------------------------------------------------------------------------------------------------------------------------------
