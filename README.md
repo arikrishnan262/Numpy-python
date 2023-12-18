@@ -16,9 +16,11 @@ Key features of NumPy include:
 
 To use NumPy in your Python code, you typically start by importing the library:
 
-```python
+python
+
 import numpy as np
 
+that's numpy 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
