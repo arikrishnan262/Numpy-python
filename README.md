@@ -34,17 +34,16 @@ import numpy as np
 arr = np.array([1, 2, 3, 4, 5])
 
 # Perform operations on the array
-mean_value = np.mean(arr)
-```
 
-NumPy is an essential tool for anyone working on numerical computing and data analysis in Python.
+
+numpy is an essential tool for anyone working on numerical computing and data analysis in python 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Certainly! Here are a few simple NumPy programs that demonstrate various basic functionalities:
+python programs......!
 
 ### Program 1: Creating and Summing an Array
 
-```python
+python
 import numpy as np
 
 # Step 1: Create a 1D array
@@ -56,11 +55,11 @@ sum_result = np.sum(arr)
 # Print the results
 print("Array:", arr)
 print("Sum of elements:", sum_result)
-```
+
 
 ### Program 2: Matrix Multiplication
 
-```python
+python
 import numpy as np
 
 # Step 1: Create two matrices
@@ -74,11 +73,11 @@ result_matmul = np.dot(mat1, mat2)
 print("Matrix 1:\n", mat1)
 print("Matrix 2:\n", mat2)
 print("Matrix Multiplication Result:\n", result_matmul)
-```
+
 
 ### Program 3: Generating Random Numbers
 
-```python
+python
 import numpy as np
 
 # Step 1: Generate a random 3x3 matrix
@@ -86,11 +85,11 @@ random_matrix = np.random.rand(3, 3)
 
 # Step 2: Print the random matrix
 print("Random Matrix:\n", random_matrix)
-```
+
 
 ### Program 4: Reshaping an Array
 
-```python
+python
 import numpy as np
 
 # Step 1: Create a 1D array
@@ -102,11 +101,11 @@ reshaped_arr = arr1.reshape(2, 3)
 # Print the results
 print("Original Array:", arr1)
 print("Reshaped Array:\n", reshaped_arr)
-```
+
 
 ### Program 5: Statistical Operations
 
-```python
+python
 import numpy as np
 
 # Step 1: Create an array
@@ -120,6 +119,6 @@ std_deviation = np.std(arr)
 print("Array:", arr)
 print("Mean:", mean_value)
 print("Standard Deviation:", std_deviation)
-```
+
 
 
