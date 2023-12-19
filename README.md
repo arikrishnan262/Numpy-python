@@ -36,7 +36,9 @@ arr = np.array([1, 2, 3, 4, 5])
 # Perform operations on the array
 
 
-numpy is an essential tool for anyone working on numerical computing and data analysis in python 
+numpy is an essential tool for anyone working on numerical computing and data analysis in python
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 python programs......!
